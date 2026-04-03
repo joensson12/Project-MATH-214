@@ -12,7 +12,7 @@ Starting from the interacting particle model of [Boffi & Vanden-Eijnden (2024)](
 
 1. **Derives a one-dimensional barrier SDE** for the relative distance between two particles, with singular drift terms that repel the process away from the boundary.
 2. **Applies Feller's test for explosions** to rigorously prove that the solution stays in $(0, 2\pi)$ almost surely when the drift-to-noise ratio satisfies $\mu \geq \varepsilon$.
-3. **Compares three numerical schemes** -- standard Euler-Maruyama, clipped Euler-Maruyama, and backward (drift-implicit) Euler-Maruyama -- and shows that only the backward scheme simultaneously preserves the state constraint, avoids blow-up, and respects the symmetry of the dynamics.
+3. **Compares three numerical schemes** standard Euler-Maruyama, clipped Euler-Maruyama, and backward (drift-implicit) Euler-Maruyama, Shows that only the backward scheme simultaneously preserves the state constraint, avoids blow-up, and respects the symmetry of the dynamics.
 
 ## Key Results
 
