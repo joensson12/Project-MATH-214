@@ -1,0 +1,53 @@
+\begin{thebibliography}{6}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Boffi and Vanden-Eijnden(2024)]{boffi2024deep}
+Nicol~M. Boffi and Eric Vanden-Eijnden.
+\newblock Deep learning probability flows and entropy production rates in
+  active matter.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 121\penalty0
+  (25):\penalty0 e2318106121, 2024.
+\newblock \doi{10.1073/pnas.2318106121}.
+
+\bibitem[Charles R.~Harris(2020)]{harris2020array}
+et~al. Charles R.~Harris.
+\newblock Array programming with {NumPy}.
+\newblock \emph{Nature}, 585:\penalty0 357--362, 2020.
+\newblock \doi{10.1038/s41586-020-2649-2}.
+
+\bibitem[Karatzas and Shreve(1991)]{karatzasshreve1991brownian}
+Ioannis Karatzas and Steven~E. Shreve.
+\newblock \emph{Brownian Motion and Stochastic Calculus}, volume 113 of
+  \emph{Graduate Texts in Mathematics}.
+\newblock Springer, New York, 2 edition, 1991.
+\newblock ISBN 978-0-387-97655-6.
+\newblock \doi{10.1007/978-1-4612-0949-2}.
+
+\bibitem[Lee(2024)]{lee2024finite}
+Seungsoo Lee.
+\newblock Finite time explosion of stochastic differential equations: A survey
+  into khasminskii's lyapunov method and its consistency with the osgood
+  criterion.
+\newblock \emph{arXiv preprint arXiv:2407.04834}, 2024.
+\newblock July 9, 2024.
+
+\bibitem[Neuenkirch and Szpruch(2014)]{neuenkirch2014domain}
+Andreas Neuenkirch and Lukasz Szpruch.
+\newblock First order strong approximations of scalar sdes defined in a domain.
+\newblock \emph{Numerische Mathematik}, 128\penalty0 (1):\penalty0 103--136,
+  2014.
+\newblock \doi{10.1007/s00211-014-0606-4}.
+
+\bibitem[Øksendal(2013)]{oksendal2013sde}
+Bernt Øksendal.
+\newblock \emph{Stochastic Differential Equations: An Introduction with
+  Applications}.
+\newblock Universitext. Springer, 6 edition, 2013.
+\newblock ISBN 978-3-642-14394-6.
+\newblock \doi{10.1007/978-3-642-14394-6}.
+
+\end{thebibliography}

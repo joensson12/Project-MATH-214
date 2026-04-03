@@ -1,0 +1,24 @@
+\contentsline {section}{\numberline {1}Introduction to general model}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Active Ornstein--Uhlenbeck / Gaussian colored-noise model}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Translation into It\^o SDE notation (probability-theory convention)}{2}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Only repulsion}{2}{subsection.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}Checking the assumptions of Theorem \ref {thm:oksendal-5-2-1} for \eqref {eq:ito-x-2dreponlyspecific}}{3}{subsubsection.1.3.1}%
+\contentsline {paragraph}{Linear growth \eqref {eq:lin-growth}.}{4}{section*.2}%
+\contentsline {paragraph}{Global Lipschitz \eqref {eq:lipschitz}.}{4}{section*.3}%
+\contentsline {paragraph}{Conclusion.}{4}{section*.4}%
+\contentsline {subsubsection}{\numberline {1.3.2}Euler-Maruyama simulation and computational assessment of vectorization}{4}{subsubsection.1.3.2}%
+\contentsline {section}{\numberline {2}Relative distance change with only repulsion}{8}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Theoretical guarantees}{8}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Numerical methods}{14}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Numerical implementation using Euler-Maruyama scheme}{14}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Numerical implementation using backward Euler-Maruyama/drift-implicit scheme}{16}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Direct detialed comparison between standard Euler-Maruyama, clipped Euler-Maruyama and backward Euler-Maruyama}{20}{subsubsection.2.2.3}%
+\contentsline {paragraph}{Standard Euler-Maruyama scheme}{20}{section*.13}%
+\contentsline {paragraph}{Clipped Euler-Maruyama scheme}{20}{section*.14}%
+\contentsline {paragraph}{Backward Euler-Maruyama scheme}{20}{section*.15}%
+\contentsline {paragraph}{Convergence assessment using oddmoments}{20}{section*.16}%
+\contentsline {paragraph}{Figures and numerical experiment}{22}{section*.17}%
+\contentsline {paragraph}{Convergence assessment using statioanry distrubution}{28}{section*.23}%
+\contentsline {paragraph}{Numerical comparison with the stationary distribution}{29}{section*.24}%
+\contentsline {section}{\numberline {3}Conclusion}{31}{section.3}%
+\contentsline {section}{\numberline {A}Derivation of the closed-form update}{33}{appendix.A}%
