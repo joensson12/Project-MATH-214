@@ -1,4 +1,4 @@
-# SDE Project -- MATH 214
+# SDE Project MATH 214
 
 **Author:** Johan Jonsson  
 **Program:** Graduate student in Mathematical Statistics  
